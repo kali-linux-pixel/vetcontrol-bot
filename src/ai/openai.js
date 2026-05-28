@@ -10,8 +10,8 @@ export const openai = new OpenAI(
   isOpenAIConfigured
     ? { apiKey: process.env.OPENAI_API_KEY }
     : {
-        apiKey: process.env.GROQ_API_KEY || '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',
-        baseURL: 'https://api.groq.com/openai/v1',
+        apiKey: process.env.GROQ_API_KEY,
+        baseURL: 'https://api.groq.com/openai/v1'
       }
 );
 
