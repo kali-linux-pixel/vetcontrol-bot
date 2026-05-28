@@ -17,8 +17,16 @@ app.use(express.urlencoded({ extended: true }));
 app.use('/api', webhookRoutes);
 
 // Health check endpoint
-app.get('/health', (req, res) => {
-  res.json({ status: 'OK', time: new Date() });
+const express = require("express");
+const app = express();
+
+app.get("/health", (req, res) => {
+  res.json({
+    status: "OK",
+    time: new Date().toISOString(),
+  });
 });
 
-export default app;
+app.listen(3001, () => {
+  console.log("Server running");
+});
