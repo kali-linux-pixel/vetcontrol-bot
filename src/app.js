@@ -25,8 +25,4 @@ app.get("/health", (req, res) => {
   });
 });
 
-app.listen(3001, () => {
-  console.log("Server running");
-});
-
 export default app;
