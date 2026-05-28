@@ -5,7 +5,7 @@ import webhookRoutes from './routes/webhook.js';
 const app = express();
 
 app.use(cors({
-  origin: '*', // Allow connections from panel
+  origin: '*',
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   credentials: true
 }));
@@ -17,9 +17,6 @@ app.use(express.urlencoded({ extended: true }));
 app.use('/api', webhookRoutes);
 
 // Health check endpoint
-const express = require("express");
-const app = express();
-
 app.get("/health", (req, res) => {
   res.json({
     status: "OK",
