@@ -1,0 +1,262 @@
+{
+  "120363428058040016@g.us": [
+    {
+      "role": "user",
+      "content": "Literal"
+    },
+    {
+      "role": "assistant",
+      "content": "¿Podrías aclarar a qué te refieres con “Literal”? Estoy aquí para ayudarte. 🚶‍♂️"
+    },
+    {
+      "role": "user",
+      "content": "jajajaja"
+    },
+    {
+      "role": "assistant",
+      "content": "¡Me alegra que estés riendo! 😄 Cómo puedo ayudarte hoy con tu mascota?"
+    },
+    {
+      "role": "user",
+      "content": "JAJAJAJA"
+    },
+    {
+      "role": "assistant",
+      "content": "¡Me alegra que te diviertas! 😄 ¿Necesitas ayuda con algo relacionado con la clínica o tu mascota?"
+    },
+    {
+      "role": "user",
+      "content": "Por eso los voy a archivar cuando me salga"
+    },
+    {
+      "role": "assistant",
+      "content": "Entiendo, entonces lo guardaremos y cuando necesites los detalles, avísame. 🗂️"
+    },
+    {
+      "role": "user",
+      "content": "Bro"
+    },
+    {
+      "role": "assistant",
+      "content": "¿Algo con la clínica o tu mascota? ⚡️"
+    },
+    {
+      "role": "user",
+      "content": "Años con retraso"
+    },
+    {
+      "role": "assistant",
+      "content": "¿Podrías explicar un poco más a qué te refieres? Así podré ayudarte mejor. 😃"
+    }
+  ],
+  "127934308327637@lid": [
+    {
+      "role": "user",
+      "content": "Hola"
+    },
+    {
+      "role": "assistant",
+      "content": "¿Cómo puedo ayudarte hoy con tu mascota? 🐾"
+    },
+    {
+      "role": "user",
+      "content": "Si"
+    },
+    {
+      "role": "assistant",
+      "content": "¡Genial! ¿Necesitas programar una cita, preguntar sobre vacunas o algo más?"
+    },
+    {
+      "role": "user",
+      "content": "Destenper"
+    },
+    {
+      "role": "assistant",
+      "content": "Parece que hubo un pequeño error de tipeo. ¿Te refieres a pedir una cita o a algo más? 😕"
+    },
+    {
+      "role": "user",
+      "content": "Otra cita"
+    },
+    {
+      "role": "assistant",
+      "content": "¡Claro! ¿Para qué especie (perro, gato, otro) y cuál sería el motivo de la visita? Con esa información puedo ver la disponibilidad y agendar. 🗓️"
+    },
+    {
+      "role": "user",
+      "content": "Quiero UNA CITA A PAR EL DIA SABADO ALAS 12 TENGO UN PERRO PITBULL Q TIENE DESTEMPER"
+    },
+    {
+      "role": "assistant",
+      "content": "Lo agendaré para un consultorio a las 12 del sábado. ¿Cuál es el nombre del médico preferido para el caso de tu perro Pitbull?"
+    },
+    {
+      "role": "user",
+      "content": "Quiero UNA CITA A PAR EL DIA SABADO ALAS 12 TENGO UN PERRO PITBULL Q TIENE DESTEMPER"
+    },
+    {
+      "role": "assistant",
+      "content": "No hubo un cambio en la solicitud, la citada está confirmada para sábado a las 12. ¿Hay algo más qué desee hacer o pregunta?"
+    }
+  ],
+  "11111701176435@lid": [
+    {
+      "role": "user",
+      "content": "Kfue"
+    },
+    {
+      "role": "assistant",
+      "content": "Disculpa, no te entiendo. ¿Podrías repetir? Quiero asegurarme de entender tu pregunta sobre la cita de Lupo el martes a las 10am."
+    },
+    {
+      "role": "user",
+      "content": "Jajaja"
+    },
+    {
+      "role": "assistant",
+      "content": "Parece que hay algo en el aire. ¿Quieres hacer una cita y solo estabas siendo divertido? O estás tratando de cancelar la cita?"
+    },
+    {
+      "role": "user",
+      "content": "Una cita dame pe loco pa ahora"
+    },
+    {
+      "role": "assistant",
+      "content": "No entendí tu solicitud 😅"
+    },
+    {
+      "role": "user",
+      "content": "Pero"
+    },
+    {
+      "role": "assistant",
+      "content": "No puedo ayudarte en este momento. ¿Podrías repetir tu petición de cita de forma clara?"
+    },
+    {
+      "role": "user",
+      "content": "Quiero información"
+    },
+    {
+      "role": "assistant",
+      "content": "¿Te gustaría recibir información sobre nuestro horario de atención, procedimientos de cita, o algo específico sobre los servicios veterinarios?"
+    },
+    {
+      "role": "user",
+      "content": "Horario de atención"
+    },
+    {
+      "role": "assistant",
+      "content": "Nuestros horarios de atención son de lunes a viernes de 9am a 6pm y sábados de 9am a 2pm. ¿Quieres agendar una cita dentro de estos horarios?"
+    }
+  ],
+  "67160806314164@lid": [
+    {
+      "role": "user",
+      "content": "Jajajajajaja"
+    },
+    {
+      "role": "assistant",
+      "content": "No entendí tu solicitud 😅"
+    },
+    {
+      "role": "user",
+      "content": "El 29 de diciembre"
+    },
+    {
+      "role": "assistant",
+      "content": "¿Cuál es el año y a qué hora deseas programar la cita?"
+    },
+    {
+      "role": "user",
+      "content": "2026 a las 12 de la noche"
+    },
+    {
+      "role": "assistant",
+      "content": "Nuestra veterinaria cierra a las 6 pm. ¿Te gustaría programar la cita para un día y hora diferente?"
+    },
+    {
+      "role": "user",
+      "content": "A las 5 de la tarde"
+    },
+    {
+      "role": "assistant",
+      "content": "Tu cita para el 29 de diciembre a las 5 pm está confirmada. ¿Necesitas algo más?"
+    },
+    {
+      "role": "user",
+      "content": "No eso no más"
+    },
+    {
+      "role": "assistant",
+      "content": "Disfruta tu cita. Hasta luego."
+    },
+    {
+      "role": "user",
+      "content": "Chau prra"
+    },
+    {
+      "role": "assistant",
+      "content": "¡Hasta luego!"
+    }
+  ],
+  "98754334048277@lid": [
+    {
+      "role": "user",
+      "content": "Perfecto quedo pensando con el pensamiento"
+    },
+    {
+      "role": "assistant",
+      "content": "¿En qué puedo ayudarte hoy?"
+    }
+  ],
+  "34458824626216@lid": [
+    {
+      "role": "user",
+      "content": "28 alas 10:54"
+    },
+    {
+      "role": "assistant",
+      "content": "La cita está programada para el 28 de mayo a las 10:54. ¿Qué tipo de consulta necesitas para tu mascota?"
+    },
+    {
+      "role": "user",
+      "content": "es para sus bacunas"
+    },
+    {
+      "role": "assistant",
+      "content": "Entendido. ¿Cuál es el nombre de tu mascota que necesita la consulta de vacunas? También necesito saber el tipo de mascota que es: gato, perro, otro animal..."
+    },
+    {
+      "role": "user",
+      "content": "es un gato se llama kevin raza Siamés"
+    },
+    {
+      "role": "assistant",
+      "content": "Un hermoso Siamés llamado Kevin.\n\nPara confirmar la cita, ¿tienes algunos de los siguientes documentos para Kevin: carnet de vacunación, registro de mascotas de la comunidad, o algún otro documento que acredite la especie y raza de Kevin?"
+    },
+    {
+      "role": "user",
+      "content": ": carnet de vacunación"
+    },
+    {
+      "role": "assistant",
+      "content": "Me aseguraré de agregar esa información a la base de datos del registro de vacunación para Kevin.\n\nPor fin está todo arreglado para la cita del 28 de mayo a las 10:54. Kevin tiene una cita para su próxima vacunación. Estoy aquí si necesitas algo más."
+    },
+    {
+      "role": "user",
+      "content": "ya esta registrado"
+    },
+    {
+      "role": "assistant",
+      "content": "Genial! En ese caso, solo espero a que llegues con Kevin a la clínica el 28 de mayo a las 10:54 para su cita. Estaremos listos para atenderlo."
+    },
+    {
+      "role": "user",
+      "content": "quiero una cita el 28/05/2026 a las 5pm mi perrro sse llama roki rasa pitbull"
+    },
+    {
+      "role": "assistant",
+      "content": "📅 Cita registrada correctamente 😊\n\n📆 Fecha:\n2026-05-28\n\n🕒 Hora:\n17:00"
+    }
+  ]
+}
